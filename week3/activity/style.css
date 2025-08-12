@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+.head1{
+    color: white;
+}
+.head2{
+    color:red;
+}
+.head3{
+    color: white;
+    background-color: black;
+    font-family: Arial;
+    font size:125px;
+    
+}
+.head4{
+    color: rgb(9, 235, 0)
+}
+
+.head5{
+    color: ;
+}
+.secpar1{
+    color: red;
+}
+
+.secpar2{
+    color: yellow;
+    text-underline-position: underline;
+}
+
+.secpar3{
+    color: blue;
+}
+.secpar4{
+    color: rgb(9, 255, 0);
+}
+
+
+
+body{
+    background-color: #16365d;
+}
+.part1{
+    color: red;
+}
+
+.part2{
+    color: indigo;
+}
